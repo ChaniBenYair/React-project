@@ -1,0 +1,16 @@
+/* Element selector */
+h1 {
+    color: blue;
+  }
+  
+  /* Class selector */
+  .my-class {
+    font-size: 16px;
+  }
+  
+  /* ID selector */
+  #my-id {
+    background-color: yellow;
+  }
+  
+  

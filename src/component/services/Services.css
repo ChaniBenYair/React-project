@@ -1,0 +1,22 @@
+.singlemeetingtoadmin {
+    width: 20%;
+    border: solid 3px rgb(120, 119, 119);
+    border-radius: 15px;
+    height: 400px;
+    margin-bottom: 2%;
+    margin-left: 2%
+}
+.listServ{
+    display: flex;
+    margin-bottom: 2%;
+    flex-wrap: wrap;
+    
+    
+}
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+width: 23.5%;
+margin: 7px;
+}
+.MuiCardContent-root.css-46bh2p-MuiCardContent-root {
+    text-align: center;
+}
